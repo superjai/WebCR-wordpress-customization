@@ -1,0 +1,11 @@
+### WordPress  ###
+index.php
+/upgrade/
+/uploads/
+/themes/
+/plugins/index.php
+/plugins/debug-bar/
+/plugins/query-monitor/
+/plugins/svg-support/
+/plugins/contact-form-7/
+/plugins/developry-google-fonts/
