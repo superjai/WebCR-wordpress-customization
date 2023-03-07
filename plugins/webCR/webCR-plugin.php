@@ -145,7 +145,7 @@ function post_meta_box_scene_region(){
     }
 
     echo "<select style='width: 100%' name='_scene_region' value='".$sceneRegion."' >";
-    echo "<option value=''>--Choose a region--</option>";
+    echo "<option value=''>--Choose a region TESTING 1...2...3--</option>";
     echo "<option value='Channel Islands NMS'>Channel Islands NMS</option>";
     echo "<option value='Olympic Coast NMS'>Olympic Coast NMS</option></select>";
 }
